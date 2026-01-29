@@ -1,3 +1,0 @@
-username
-amisha
-secret.txt
