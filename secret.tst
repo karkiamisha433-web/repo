@@ -1,0 +1,3 @@
+username
+amisha
+secret.txt
